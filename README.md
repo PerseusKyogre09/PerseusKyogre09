@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Pradeepto Pal, aka PerseusKyogre09!
+# 👋 Hello, I'm Pradeepto, aka PerseusKyogre09!
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp10050295.jpg" alt="Kyogre" width="70%">
 </p>
@@ -35,7 +35,9 @@ Welcome to my GitHub profile! I'm passionate about technology, and I'm always ex
 ## 📫 How to reach me
 
 - Email: [pradeepto.home@gmail.com](mailto:pradeepto.home@gmail.com)
-- LinkedIn: [Pradeepto Pal](https://www.linkedin.com/in/pradeepto-pal-64083629b/)
+- LinkedIn: [Pradeepto](https://www.linkedin.com/in/pradeepto-pal-64083629b/)
+- Discord: [PerseusKyogre09](https://discord.com/users/707503002440957963)
+- X: [@KyogrePerseus](https://x.com/KyogrePerseus)
 
 ## ✨ Fun Stuff
 
