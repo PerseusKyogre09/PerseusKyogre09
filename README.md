@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about technology, and I'm always ex
 
 ## 🌟 Hackathon Projects
 
-- 📈 [**Dynamic Pricing Model**](https://github.com/username/dynamic-pricing): Designed a pricing model for the fintech sector as part of a hackathon. The project focuses on optimizing prices dynamically based on supply and demand.
+- 📈 [**Dynamic Pricing Model**](https://github.com/username/dynamic-pricing): Designing a pricing model for the fintech sector as part of a hackathon. The project focuses on optimizing prices dynamically based on supply and demand.
 
 ## 📫 How to reach me
 
