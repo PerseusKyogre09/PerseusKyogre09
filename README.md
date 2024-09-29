@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Pradeepto Pal, aka PerseusKyogre09!
-![Kyogre](https://wallpapercave.com/wp/wp10050295.jpg)
+<p align="center">
+  <img src="[./image.png](https://wallpapercave.com/wp/wp10050295.jpg)" alt="Kyogre" width="70%">
+</p>
 
 Welcome to my GitHub profile! I'm passionate about technology, and I'm always excited to work on new projects that challenge my skills. Let me introduce myself and share a bit about what I do.
 
