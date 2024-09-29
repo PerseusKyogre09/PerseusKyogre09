@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm passionate about technology, and I'm always ex
 ## ✨ Fun Stuff
 
 - 🐲 **Pokemon Nerd**: Besides programming, I love pokemon games—especially the competetive side! I would one day love to compete in an official Pokemon tournament.
-- 📘 I’m currently reading about ***programming** and how to **code optimally**.
+- 📘 I’m currently reading about **programming** and how to **code optimally**.
 - 🎮 Sometimes you might find me experimenting with game development just for fun!
 
 ## 📊 Stats
