@@ -49,7 +49,10 @@ Welcome to my GitHub profile! I'm passionate about technology, and I'm always ex
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-graph.vercel.app/api/top-langs/?username=PerseusKyogre09&theme=radical&layout=pie)
+<p align="Left">
+  <img src="https://github-readme-graph.vercel.app/api/top-langs/?username=PerseusKyogre09&theme=radical&layout=pie" alt="Top Languages Pie Chart">
+</p>
+
 
 ## 🤝 Let's Connect!
 
