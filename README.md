@@ -50,6 +50,9 @@ Let me introduce myself and share a bit about what I do
   <a href="https://discord.com/users/707503002440957963">
       <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <a href="https://x.com/KyogrePerseus">
+      <img src="https://img.shields.io/badge/X-171717?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/>
+  </a>
 </div>
 
 ## ✨ Fun Stuff
