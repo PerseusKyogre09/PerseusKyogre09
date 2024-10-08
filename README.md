@@ -74,8 +74,6 @@ Let me introduce myself and share a bit about what I do
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=donut&theme=radical" />
 </a>
 
-[![PerseusKyogre09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerseusKyogre09&theme=github-compact)](https://github.com/PerseusKyogre09/github-readme-activity-graph)
-
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
@@ -85,9 +83,10 @@ Let me introduce myself and share a bit about what I do
        <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical" alt="PerseusKyogre09's Stats"/></td>
        <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=donut&theme=radical"</td>
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=PerseusKyogre09&theme=merko" alt="PerseusKyogre09's Contribution Streak"/></td>
-      <td><img style="border: none;" src="https://github-readme-activity-graph.vercel.app/graph?username=PerseusKyogre09&theme=github-compact"</td>
     </tr>
  </table>
+
+[![PerseusKyogre09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerseusKyogre09&theme=github-compact)](https://github.com/PerseusKyogre09/github-readme-activity-graph)
 
 ## 🤝 Let's Connect!
 
