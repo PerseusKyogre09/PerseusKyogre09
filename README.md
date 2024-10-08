@@ -49,6 +49,8 @@ Let me introduce myself and share a bit about what I do
 - 📘 I’m currently reading about **programming** and how to **code optimally**.
 - 🎮 Sometimes you might find me experimenting with game development just for fun!
 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=perseuskyogre09)](https://holopin.io/@perseuskyogre09)
+
 ## 📊 Stats
 
 <a href="https://github.com/PerseusKyogre09/github-readme-stats">
@@ -64,12 +66,3 @@ Let me introduce myself and share a bit about what I do
 
 Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!
 
-## Star History
-
-<a href="https://star-history.com/#PerseusKyogre09/files-organize&PerseusKyogre09/Text-Adventure-Engine&PerseusKyogre09/tetris&Timeline">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=PerseusKyogre09/files-organize,PerseusKyogre09/Text-Adventure-Engine,PerseusKyogre09/tetris&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=PerseusKyogre09/files-organize,PerseusKyogre09/Text-Adventure-Engine,PerseusKyogre09/tetris&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=PerseusKyogre09/files-organize,PerseusKyogre09/Text-Adventure-Engine,PerseusKyogre09/tetris&type=Timeline" />
- </picture>
-</a>
