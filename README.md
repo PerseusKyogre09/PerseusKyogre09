@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm passionate about technology, and I'm always ex
 ## 📊 Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Let's Connect!
 
