@@ -74,6 +74,13 @@ Let me introduce myself and share a bit about what I do
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=donut&theme=radical" />
 </a>
 
+<div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/PerseusKyogre09/PerseusKyogre09/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+</div>
+
+
 [![PerseusKyogre09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerseusKyogre09&theme=github-compact)](https://github.com/PerseusKyogre09/github-readme-activity-graph)
 
 ## 🤝 Let's Connect!
