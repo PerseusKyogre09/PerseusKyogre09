@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Pradeepto, aka PerseusKyogre09!
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hello,+I'm+Pradeepto!;Also+known+as+PerseusKyogre09!)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp10050295.jpg" alt="Kyogre" width="70%">
 </p>
@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm passionate about technology, and I'm always ex
 ## 📊 Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Let's Connect!
 
