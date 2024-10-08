@@ -51,13 +51,18 @@ Let me introduce myself and share a bit about what I do
 ## 📊 Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical) <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) <br>
+
 [![PerseusKyogre09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerseusKyogre09&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🤝 Let's Connect!
 
 Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=PerseusKyogre09/github-readme-activity-graph&type=Timeline)](https://star-history.com/#PerseusKyogre09/github-readme-activity-graph&Timeline)
 <!--
 **PerseusKyogre09/PerseusKyogre09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
