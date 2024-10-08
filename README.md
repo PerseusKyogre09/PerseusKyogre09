@@ -50,8 +50,8 @@ Let me introduce myself and share a bit about what I do
 
 ## 📊 Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![PerseusKyogre09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerseusKyogre09&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🤝 Let's Connect!
 
