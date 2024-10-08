@@ -65,7 +65,13 @@ Feel free to explore my repositories, contribute if you like, or reach out for c
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PerseusKyogre09/github-readme-activity-graph&type=Timeline)](https://star-history.com/#PerseusKyogre09/github-readme-activity-graph&Timeline)
+<a href="https://star-history.com/#PerseusKyogre09/files-organize&PerseusKyogre09/Text-Adventure-Engine&PerseusKyogre09/tetris&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=PerseusKyogre09/files-organize,PerseusKyogre09/Text-Adventure-Engine,PerseusKyogre09/tetris&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=PerseusKyogre09/files-organize,PerseusKyogre09/Text-Adventure-Engine,PerseusKyogre09/tetris&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=PerseusKyogre09/files-organize,PerseusKyogre09/Text-Adventure-Engine,PerseusKyogre09/tetris&type=Timeline" />
+ </picture>
+</a>
 <!--
 **PerseusKyogre09/PerseusKyogre09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
