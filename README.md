@@ -49,7 +49,7 @@ Let me introduce myself and share a bit about what I do
 - 📘 I’m currently reading about **programming** and how to **code optimally**.
 - 🎮 Sometimes you might find me experimenting with game development just for fun!
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=perseuskyogre09)](https://holopin.io/@perseuskyogre09)
+[![@rphi's Holopin board][(https://holopin.io/api/user/board?user=perseuskyogre09)](https://www.holopin.io/@perseuskyogre09#)
 
 ## 📊 Stats
 
