@@ -4,7 +4,8 @@
   <img src="https://wallpapercave.com/wp/wp10050295.jpg" alt="Kyogre" width="70%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&height=100&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&height=100&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+
 I'm passionate about technology, and I'm always excited to work on new projects that challenge my skills.
 Let me introduce myself and share a bit about what I do
 
