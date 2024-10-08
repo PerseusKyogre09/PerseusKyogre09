@@ -65,7 +65,8 @@ Let me introduce myself and share a bit about what I do
 
 [![An image of @perseuskyogre09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/perseuskyogre09)](https://holopin.io/@perseuskyogre09)
 
-## 📊 Stats
+## 💻 Github Stats</h2>
+Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!
 
 <a href="https://github.com/PerseusKyogre09/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical" />
@@ -75,13 +76,10 @@ Let me introduce myself and share a bit about what I do
 </a>
 
 <div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+<h2 align="center" class="section-heading">
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerseusKyogre09&theme=github_dark" alt="PerseusKyogre09's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical" alt="PerseusKyogre09's Stats"/></td>
-       <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=donut&theme=radical"</td>
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=PerseusKyogre09&theme=merko" alt="PerseusKyogre09's Contribution Streak"/></td>
     </tr>
  </table>
