@@ -1,9 +1,11 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hello,+I'm+Pradeepto!;Also+known+as+PerseusKyogre09!)](https://git.io/typing-svg)
+# 👋 Hello, I'm Pradeepto, aka PerseusKyogre09!
+
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp10050295.jpg" alt="Kyogre" width="70%">
 </p>
 
 Welcome to my GitHub profile! I'm passionate about technology, and I'm always excited to work on new projects that challenge my skills. Let me introduce myself and share a bit about what I do.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github!;I'm+passionate+about+technology,+and+I'm+always+excited+to+work+on+new+projects+that+challenge+my+skills.)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
