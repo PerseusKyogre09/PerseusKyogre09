@@ -74,6 +74,10 @@ Let me introduce myself and share a bit about what I do
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=donut&theme=radical" />
 </a>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
 [![PerseusKyogre09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerseusKyogre09&theme=github-compact)](https://github.com/PerseusKyogre09/github-readme-activity-graph)
 
 ## 🤝 Let's Connect!
