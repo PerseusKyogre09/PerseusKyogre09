@@ -38,10 +38,9 @@ Let me introduce myself and share a bit about what I do
 
 ## 📫 How to reach me
 
-- Email: [pradeepto.home@gmail.com](mailto:pradeepto.home@gmail.com)
-- LinkedIn: [Pradeepto](https://www.linkedin.com/in/pradeepto-pal-64083629b/)
-- Discord: [PerseusKyogre09](https://discord.com/users/707503002440957963)
-- X: [@KyogrePerseus](https://x.com/KyogrePerseus)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fc/01/d6/fc01d6058d64e7f9e25292d1980f8500.gif">
+</p>
 
 <div align="center">
   <a href="mailto:pradeepto.home@gmail.com">
