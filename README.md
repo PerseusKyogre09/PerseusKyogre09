@@ -47,9 +47,6 @@ Let me introduce myself and share a bit about what I do
   <a href="https://www.linkedin.com/in/pradeepto-pal-64083629b/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-
-<div align="center">
   <a href="https://discord.com/users/707503002440957963">
       <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"/>
   </a>
