@@ -5,7 +5,6 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&height=100&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
-
 I'm passionate about technology, and I'm always excited to work on new projects that challenge my skills.
 Let me introduce myself and share a bit about what I do
 
@@ -52,7 +51,8 @@ Let me introduce myself and share a bit about what I do
 ## 📊 Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerseusKyogre09)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🤝 Let's Connect!
 
