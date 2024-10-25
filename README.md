@@ -21,8 +21,8 @@ Let me introduce myself and share a bit about what I do
 
 - 🔒 [**Racing Game**](https://github.com/PerseusKyogre09/racing-game): A fun game of racing made with Pygame (my very first independent project).
 - 🚗 [**Basic RPG Game**](https://github.com/PerseusKyogre09/Text-Adventure-Engine): A tribute to the classic RPG Games, submitted for my final exam in school.
-- 🌾 [**Nokia**](https://github.com/PerseusKyogre09/Nokia): A faithful layout of the original Nokia button mobiles, aiming to emulate nostalgic feeling (WIP).
-- 🐲 [**Pokeemerald Expansion**](https://github.com/PerseusKyogre09/pokeemerald-expansion): Trying and failing to make a GBA ROM hack using pokeemerald disassembly tools.
+- ☎️ [**Nokia**](https://github.com/PerseusKyogre09/Nokia): A faithful layout of the original Nokia button mobiles, aiming to emulate nostalgic feeling (WIP).
+- ♟️ [**Pokeemerald Expansion**](https://github.com/PerseusKyogre09/Chess): Chess game made using python. More features on the way!
 
 ## 🛠️ Tech Stack
 
