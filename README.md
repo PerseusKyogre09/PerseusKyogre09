@@ -72,7 +72,7 @@ Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/PerseusKyogre09/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=donut&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&theme=radical" />
 </a>
 
 <div align="center">
