@@ -84,6 +84,8 @@ Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! 
     </tr>
  </table>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/perseuskyogre09)
+
 [![PerseusKyogre09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerseusKyogre09&theme=github-compact)](https://github.com/PerseusKyogre09/github-readme-activity-graph)
 
 ## 🤝 Let's Connect!
