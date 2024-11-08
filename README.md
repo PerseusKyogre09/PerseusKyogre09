@@ -18,7 +18,6 @@ Let me introduce myself and share a bit about what I do
 - ⚡ Fun fact: I'm a big fan of Pokemon—so much so that I am currently trying to make one myself using Python (WIP)!
 
 ## 💡 Projects
-
 - 🏎️ [**Racing Game**](https://github.com/PerseusKyogre09/racing-game): A fun game of racing made with Pygame (my very first independent project).
 - ⚔️ [**Basic RPG Game**](https://github.com/PerseusKyogre09/Text-Adventure-Engine): A tribute to the classic RPG Games, submitted for my final exam in school.
 - ☎️ [**Nokia**](https://github.com/PerseusKyogre09/Nokia): A faithful layout of the original Nokia button mobiles, aiming to emulate nostalgic feeling (WIP).
@@ -69,7 +68,7 @@ Let me introduce myself and share a bit about what I do
 
 ## 💻 Github Stats</h2>
 Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!
-
+<details>
 <a href="https://github.com/PerseusKyogre09/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical" />
 </a>
@@ -90,8 +89,11 @@ Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! 
 
 [![PerseusKyogre09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerseusKyogre09&theme=github-compact)](https://github.com/PerseusKyogre09/github-readme-activity-graph)
 
+</details>
+
 ## 🤝 Let's Connect!
 
 Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!
 
 ![](https://komarev.com/ghpvc/?username=PerseusKyogre09)
+
