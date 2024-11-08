@@ -23,6 +23,7 @@ Let me introduce myself and share a bit about what I do
 - ⚔️ [**Basic RPG Game**](https://github.com/PerseusKyogre09/Text-Adventure-Engine): A tribute to the classic RPG Games, submitted for my final exam in school.
 - ☎️ [**Nokia**](https://github.com/PerseusKyogre09/Nokia): A faithful layout of the original Nokia button mobiles, aiming to emulate nostalgic feeling (WIP).
 - ♟️ [**Chess**](https://github.com/PerseusKyogre09/Chess): Chess game made using python. More features on the way!
+- 🖥️ [**Desktop Widgets**](https://github.com/PerseusKyogre09/desktop-widgets): Multiple widgets for customizing your desktop. Made using Python PyQt5.
 
 ## 🛠️ Tech Stack
 
