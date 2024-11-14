@@ -48,8 +48,8 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 
   ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerseusKyogre09&theme=github_dark)
 
-  [![GitHub Streak](https://github-streak-stats-gamma.vercel.app?user=PerseusKyogre09)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://github-streak-stats-gamma.vercel.app?user=PerseusKyogre09&theme=radical)](https://git.io/streak-stats)
+  
   [![PerseusKyogre09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PerseusKyogre09&theme=github-compact)](https://github.com/PerseusKyogre09/github-readme-activity-graph)
 
 </details>
