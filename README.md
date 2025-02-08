@@ -16,10 +16,10 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages**: Python, C
+- **Programming Languages**: Python, C, C++, Java
 - **Database Management**: MySQL
-- **Web Development**: HTML
-- **Machine Learning**: Numpy, Matplotlib
+- **Web Development**: HTML, CSS
+- **Machine Learning**: Numpy, Matplotlib, Scikit-Learn
 - **Version Control**: Git & GitHub
 
 ## ✨ Badges
