@@ -50,7 +50,7 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PerseusKyogre09&show_icons=true&theme=radical)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&langs_count=9&theme=radical&layout=donut)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&langs_count=10&theme=radical&layout=donut)
 
   ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerseusKyogre09&theme=github_dark)
 
