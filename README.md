@@ -67,6 +67,7 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 - ☎️ [**Nokia**](https://github.com/PerseusKyogre09/Nokia): An emulator for Nokia button phones.
 - ♟️ [**Chess**](https://github.com/PerseusKyogre09/Chess): A Python-based chess game, with ongoing feature updates.
 - 🖥️ [**Desktop Widgets**](https://github.com/PerseusKyogre09/desktop-widgets): A set of customizable desktop widgets, developed using PyQt5.
+- ☁️ [**Weather Application**](https://github.com/PerseusKyogre09/weather-project): A complete weather dashboard application with information on any city and 3 day weather forecast, built using Custom Tkinter.
 - 🏫 [**OD-System**](https://github.com/PerseusKyogre09/OD-systems): Designing a web application as part of B Inventors Hackathon, featuring a system for easier OD application for students busy in workshops during college hours.
 
 ## 📫 Connect with me
