@@ -89,6 +89,9 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
   <a href="https://x.com/KyogrePerseus">
       <img src="https://img.shields.io/badge/X-171717?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/>
   </a>
+  <a href="https://gitlab.com/PerseusKyogre09">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </a>
 </div>
 
 Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!
