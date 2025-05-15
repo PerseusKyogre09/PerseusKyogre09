@@ -8,25 +8,29 @@
 
 I’m a technology enthusiast focused on expanding my knowledge and honing my programming skills through practical projects and collaboration.
 
-## 🚀 About Me
+<h2><img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMTQzMDIsIm5iZiI6MTc0NzMxNDAwMiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDEzMDAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3MzI4NGQ3N2UzZWFmZmJhNzYzNzE3NjU1Y2VmZTA2ZjI3YWJjYzYzYTE2NjQ3NzgxYjI3ODMzMzA0YjIzODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fjCzj1E5gByH9U7hRlsqss3bSOX-5a0SFwwKBsUTrKM" alt="Rocket" height="28" style="vertical-align: middle;"> About Me </h2>
 
 - 💻 Currently exploring various fields of computer science, especially AI and Web3.
 - 🌱 Passionate about continuous learning and applying new technologies.
 - 🎓 Pursuing my education at SRMIST'28, with the goal of using technology to make an impact.
 
-## 🛠️ Tech Stack
+<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills" height="28" style="vertical-align: middle;"> Tech Stack </h2>
 
-### 🛠️ Languages  
+<h3> <img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMTQzMDIsIm5iZiI6MTc0NzMxNDAwMiwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDEzMDAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmZDBiMjMzNDk4NDRkNWM3MGFjMDdiNWRlMTBkYWM5M2I4OTRiOWRhYzdmYzgzNWNiZjdlNTBjYzU0NTljNTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Zy-A8ySbNob2BmYghR86t2mlZcpYokWbq5DkVpvj5xs" alt="Tech" height="26" style=vertical-align: middle;> Languages </h3>  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-C97E45?style=for-the-badge&logo=rust&logoColor=white) 
 
-### 📚 Frameworks & Libraries  
+<h3><img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMTQzMDIsIm5iZiI6MTc0NzMxNDAwMiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDEzMDAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0ODBlMDY2OTliN2YyYzBlMmQzZTVjYjc2YTY3ZjBhOGE0NWRhZTc2OGQwYjU0Zjc2MDEyNjZmNDk0NTcwNmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oS4IBJxsfkFXGfzhOf4quSHzWGAkWaVHfTX65e71U9U" alt="Tech" height="26" style=vertical-align: middle;> Frameworks & Libraries </h3>
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyQt5](https://img.shields.io/badge/PyQt5-%2300CCBB.svg?style=for-the-badge&logo=qt&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-%2300CCBB.svg?style=for-the-badge&logo=python&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
-### 🖥️ Tools & Platforms  
+<h3> <img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMTQzMDIsIm5iZiI6MTc0NzMxNDAwMiwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDEzMDAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmZDBiMjMzNDk4NDRkNWM3MGFjMDdiNWRlMTBkYWM5M2I4OTRiOWRhYzdmYzgzNWNiZjdlNTBjYzU0NTljNTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Zy-A8ySbNob2BmYghR86t2mlZcpYokWbq5DkVpvj5xs" alt="Tech" height="26" style=vertical-align: middle;> Tools & Platforms </h3>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### 💻 IDEs & Editors  
+<h3><img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMTQzMDIsIm5iZiI6MTc0NzMxNDAwMiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDEzMDAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0ODBlMDY2OTliN2YyYzBlMmQzZTVjYjc2YTY3ZjBhOGE0NWRhZTc2OGQwYjU0Zjc2MDEyNjZmNDk0NTcwNmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oS4IBJxsfkFXGfzhOf4quSHzWGAkWaVHfTX65e71U9U" alt="Tech" height="26" style=vertical-align: middle;> IDEs & Editors </h3>
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## ✨ Badges
@@ -73,7 +77,7 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 ## 📫 Connect with me
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/fc/01/d6/fc01d6058d64e7f9e25292d1980f8500.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
 <div align="center">
@@ -98,3 +102,6 @@ Feel free to explore my repositories, contribute if you like, or reach out for c
 
 ![](https://komarev.com/ghpvc/?username=PerseusKyogre09)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="End">
+</p>
