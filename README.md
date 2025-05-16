@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Pradeepto (PerseusKyogre09)
+<h1><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Hello" height="40" style="vertical-align: bottom;"> Hello, I'm Pradeepto (PerseusKyogre09) </h1>
 
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp10050295.jpg" alt="Kyogre" width="70%">
@@ -33,7 +33,8 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## ✨ Badges
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" height="25" style=vertical-align: middle;> Badges </h2>
+
 <details>
   <summary>📜 Achievements & Badges</summary>
 
@@ -48,7 +49,7 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 </details>
 
 
-## 💻 GitHub Stats
+<h2> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" height="25" style=vertical-align: middle;> Github Stats </h2>
 
 <details>
   <summary>📊 My Stats</summary>
@@ -65,7 +66,8 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 
 </details>
 
-## 💡 Projects
+<h2> <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Fire" height="25" style=vertical-align: middle;> Projects </h2>
+
 - 🏎️ [**Racing Game**](https://github.com/PerseusKyogre09/racing-game): My first independent project—a Pygame-based racing game.
 - ⚔️ [**Basic RPG Game**](https://github.com/PerseusKyogre09/Text-Adventure-Engine): A text-based RPG, inspired by classic games.
 - ☎️ [**Nokia**](https://github.com/PerseusKyogre09/Nokia): An emulator for Nokia button phones.
@@ -74,7 +76,7 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 - ☁️ [**Weather Application**](https://github.com/PerseusKyogre09/weather-project): A complete weather dashboard application with information on any city and 3 day weather forecast, built using Custom Tkinter.
 - 🏫 [**OD-System**](https://github.com/PerseusKyogre09/OD-systems): Designing a web application as part of B Inventors Hackathon, featuring a system for easier OD application for students busy in workshops during college hours.
 
-## 📫 Connect with me
+<h2> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Fire" height="25" style=vertical-align: middle;> Connect with me </h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
@@ -100,7 +102,11 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 
 Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!
 
-![](https://komarev.com/ghpvc/?username=PerseusKyogre09)
+<div align="center">
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PerseusKyogre09&title=Visitors&left_color=purple&right_color=blue&left_text=Visitors&style=flat-square)
+  
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="End">
