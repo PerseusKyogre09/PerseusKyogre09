@@ -41,11 +41,15 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
   ### Holopin
   [![An image of @perseuskyogre09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/perseuskyogre09)](https://holopin.io/@perseuskyogre09)
 
+  ### Global Hack Week
+  <img src="/badges/ghw-os.png" alt="Open Source Week" height="175"/>
+
   ### GSSoC(24)
   ![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/PerseusKyogre09?year=2024Extd)
 
   ### Leetcode
   ![Leetcode Stats](https://leetcard.jacoblin.cool/perseuskyogre09)
+  
 </details>
 
 
