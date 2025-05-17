@@ -72,6 +72,7 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 
 <h2> <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Fire" height="25" style=vertical-align: middle;> Projects </h2>
 
+- 📚 [**ScrollCue.js**](https://github.com/PerseusKyogre09/ScrollCue.js): A scroll animation library for javascript.
 - 🏎️ [**Racing Game**](https://github.com/PerseusKyogre09/racing-game): My first independent project—a Pygame-based racing game.
 - ⚔️ [**Basic RPG Game**](https://github.com/PerseusKyogre09/Text-Adventure-Engine): A text-based RPG, inspired by classic games.
 - ☎️ [**Nokia**](https://github.com/PerseusKyogre09/Nokia): An emulator for Nokia button phones.
