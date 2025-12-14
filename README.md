@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&height=100&lines=Welcome+to+my+Github+Profile!;I'm+PerseusKyogre09!)](https://git.io/typing-svg)
 
-I’m a technology enthusiast focused on expanding my knowledge and honing my programming skills through practical projects and collaboration.
+I’m a technology enthusiast who is focused on expanding my knowledge and honing my programming skills through practical projects and collaboration.
 
 <h2><img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMTQzMDIsIm5iZiI6MTc0NzMxNDAwMiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDEzMDAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3MzI4NGQ3N2UzZWFmZmJhNzYzNzE3NjU1Y2VmZTA2ZjI3YWJjYzYzYTE2NjQ3NzgxYjI3ODMzMzA0YjIzODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fjCzj1E5gByH9U7hRlsqss3bSOX-5a0SFwwKBsUTrKM" alt="Rocket" height="28" style="vertical-align: middle;"> About Me </h2>
 
