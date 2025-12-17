@@ -4,7 +4,16 @@
   <img src="https://wallpapercave.com/wp/wp10050295.jpg" alt="Kyogre" width="70%">
 </p>
 
-<h2>(PORTFOLIO)[https://pradeepto.qzz.io/]</h2>
+<h2 align="center">🚀 Explore My Portfolio</h2>
+
+<p align="center">
+  <a href="https://pradeepto.qzz.io/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/PORTFOLIO-Visit%20Now-6E40C9?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio Link"
+    />
+  </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&height=100&lines=Welcome+to+my+Github+Profile!;I'm+PerseusKyogre09!)](https://git.io/typing-svg)
 
