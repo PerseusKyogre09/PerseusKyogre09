@@ -4,6 +4,8 @@
   <img src="https://wallpapercave.com/wp/wp10050295.jpg" alt="Kyogre" width="70%">
 </p>
 
+<h2>(PORTFOLIO)[https://pradeepto.qzz.io/]</h2>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&height=100&lines=Welcome+to+my+Github+Profile!;I'm+PerseusKyogre09!)](https://git.io/typing-svg)
 
 I’m a technology enthusiast focused on expanding my knowledge and honing my programming skills through practical projects and collaboration.
