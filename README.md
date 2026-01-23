@@ -24,7 +24,7 @@ I’m a technology enthusiast focused on expanding my knowledge and honing my pr
 
 - 💻 Currently exploring various fields of computer science, especially AI and Web3.
 - 🌱 Passionate about continuous learning and applying new technologies.
-- 🎓 Pursuing my education at SRMIST'28, with the goal of using technology to make an impact.
+- 🎓 Pursuing my education at SRMIST'28, with the goal of using technology to make an impact in the world.
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills" height="28" style="vertical-align: middle;"> Tech Stack </h2>
 
