@@ -124,6 +124,8 @@ Here is my portfolio! [Click Here](https://portfolio-public-kappa.vercel.app/)
 Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!
 
 <div align="center">
+
+  ![My GitHub Game](PerseusKyogre09-space-shooter.gif)
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PerseusKyogre09&title=Visitors&left_color=purple&right_color=blue&left_text=Visitors&style=flat-square)
   
