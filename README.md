@@ -125,7 +125,7 @@ Feel free to explore my repositories, contribute if you like, or reach out for c
 
 <div align="center">
 
-  ![My GitHub Game](PerseusKyogre09-space-shooter.gif)
+  ![My GitHub Game](https://github.com/PerseusKyogre09/PerseusKyogre09/blob/main/game.gif)
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PerseusKyogre09&title=Visitors&left_color=purple&right_color=blue&left_text=Visitors&style=flat-square)
   
